@@ -166,3 +166,196 @@ java.lang.NullPointerException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 20:45:45.478
 !MESSAGE executing callback sts4.classpath.dWiWPeUQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:29:25.961
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:29:25.963
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:29:25.963
+!MESSAGE buffering callback sts4.classpath.dWiWPeUQ mobile-app-ws false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:29:25.964
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:29:25.970
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:29:38.188
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:29:38.190
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:29:38.192
+!MESSAGE buffering callback sts4.classpath.dWiWPeUQ mobile-app-ws false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:29:38.192
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:29:38.199
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:31:02.570
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:31:02.572
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:31:02.572
+!MESSAGE buffering callback sts4.classpath.dWiWPeUQ mobile-app-ws false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:31:02.572
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:31:02.578
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:31:21.311
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:31:21.313
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:31:21.314
+!MESSAGE buffering callback sts4.classpath.dWiWPeUQ mobile-app-ws false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:31:21.314
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:31:21.328
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:45.612
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:45.613
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:45.614
+!MESSAGE buffering callback sts4.classpath.dWiWPeUQ mobile-app-ws false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:45.614
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:45.623
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:53.710
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:53.718
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:53.719
+!MESSAGE buffering callback sts4.classpath.dWiWPeUQ mobile-app-ws false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:53.722
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:53.741
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:57.040
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:57.041
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:57.042
+!MESSAGE buffering callback sts4.classpath.dWiWPeUQ mobile-app-ws false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:57.043
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:57.054
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:59.305
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:59.306
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:59.307
+!MESSAGE buffering callback sts4.classpath.dWiWPeUQ mobile-app-ws false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:59.307
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:33:59.326
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:34:06.038
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:34:06.040
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:34:06.040
+!MESSAGE buffering callback sts4.classpath.dWiWPeUQ mobile-app-ws false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:34:06.041
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:34:06.211
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:10.535
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:10.539
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:10.540
+!MESSAGE buffering callback sts4.classpath.dWiWPeUQ mobile-app-ws false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:10.540
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:10.544
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:27.011
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:27.013
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:27.013
+!MESSAGE buffering callback sts4.classpath.dWiWPeUQ mobile-app-ws false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:27.013
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:27.087
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:37.147
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:37.149
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:37.149
+!MESSAGE buffering callback sts4.classpath.dWiWPeUQ mobile-app-ws false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:37.149
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-04 21:38:37.167
+!MESSAGE executing callback sts4.classpath.dWiWPeUQ SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2020-10-04 21:58:23.064
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2086)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverInfo(LSPTextHover.java:108)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:41)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
