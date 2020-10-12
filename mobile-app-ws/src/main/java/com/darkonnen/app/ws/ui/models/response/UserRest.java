@@ -7,6 +7,16 @@ public class UserRest {
 	private String lastName;
 
 	private String email;
+	
+	private String password;
+
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
 
 	private String userID;
 
